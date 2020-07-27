@@ -17,6 +17,8 @@ public static void main (String [ ]args)
  int d=12;
  if ((d-12)>=0){
      System.out.println("P.M");
+
+     
  }
 else {
     System.out.println("A.M");
